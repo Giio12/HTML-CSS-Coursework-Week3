@@ -1,1 +1,16 @@
-/*  Add your styling here */
+nav{
+
+    
+}
+.container-img{
+
+}
+.article{
+    margin:50px;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: cornflowerblue;
+}
